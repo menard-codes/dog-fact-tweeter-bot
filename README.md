@@ -1,4 +1,4 @@
-# Python Tweeter Bot
+# Python Twitter Bot
 
 This is a twitter bot made with Python, Tweepy, and the Tweeter API.
 
